@@ -1,2 +1,2 @@
-# My-Portfolio
- I have made this portfolio using html and css under my internship at bharat intern
+This is a Portfolio Website created using HTML and CSS
+"# My-portfolio" 
